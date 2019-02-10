@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.ai-lab-content {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 25px;
+  margin-bottom: 60px;
+  padding-bottom: 60px;
+}
